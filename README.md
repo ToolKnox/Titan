@@ -160,3 +160,7 @@ trims `MotionControl.cpp`.
 - [Project page on Printables](https://www.printables.com/) — prints, BOM, build photos *(TODO: link)*
 - Titan Main Controller PCB — [PCBWay](https://www.pcbway.com/project/shareproject/Titan_Quaddruped_PCBs_bfb8a382.html)
 - Titan Servo Controller PCB — [PCBWay](https://www.pcbway.com/project/shareproject/Titan_Servo_Controller_f9480679.html)
+
+## Build resources
+
+- [Bill of Material](https://toolknox.github.io/Titan/bill-of-material.html)
