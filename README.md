@@ -164,3 +164,8 @@ trims `MotionControl.cpp`.
 ## Build resources
 
 - [Bill of Material](https://toolknox.github.io/Titan/bill-of-material.html)
+
+## Bill of Material
+
+[Bill of Material (PDF)](BOM.pdf): every part to buy, with shop links.
+
